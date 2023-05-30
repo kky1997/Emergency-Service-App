@@ -1,5 +1,5 @@
 # Emergency-Service-App
-An emergency service app for patient waitlist and ambulance distribution
+An emergency service app for patient waitlist and ambulance distribution (all done through CLI)
 
 Key features of this app are:
 
